@@ -17,6 +17,7 @@
   <a href="#-cookbooks"><img src="https://img.shields.io/badge/Cookbooks-orange?style=flat-square" alt="Cookbooks"/></a>
   <a href="#-documentation"><img src="https://img.shields.io/badge/Documentation-purple?style=flat-square" alt="Docs"/></a>
   <a href="./CHEF_BEGINNER_GUIDE.md"><img src="https://img.shields.io/badge/📖_Beginner_Guide-red?style=flat-square" alt="Guide"/></a>
+  <a href="./CHEF_COMMANDS_CHEATSHEET.md"><img src="https://img.shields.io/badge/🔪_Commands_Cheatsheet-yellow?style=flat-square" alt="Cheatsheet"/></a>
 </p>
 
 ---
@@ -132,6 +133,7 @@ chef-repo/
 ├── environments/
 ├── data_bags/
 ├── CHEF_BEGINNER_GUIDE.md      # 📖 Complete beginner documentation
+├── CHEF_COMMANDS_CHEATSHEET.md # 🔪 All Chef/Knife/Client commands
 └── README.md                    # You are here
 ```
 
@@ -223,6 +225,7 @@ chef-client --why-run                                              # Server dry 
 | Document | Description |
 |---|---|
 | **[CHEF_BEGINNER_GUIDE.md](./CHEF_BEGINNER_GUIDE.md)** | Complete beginner's guide (1200+ lines) covering all Chef concepts |
+| **[CHEF_COMMANDS_CHEATSHEET.md](./CHEF_COMMANDS_CHEATSHEET.md)** | All Chef, Knife, and Chef-Client commands (540+ lines) |
 | **[Chef Docs](https://docs.chef.io)** | Official Chef documentation |
 | **[Resources Reference](https://docs.chef.io/client/19/resources/bundled/)** | All built-in Chef resources |
 | **[Supermarket](https://supermarket.chef.io)** | Community cookbooks |
